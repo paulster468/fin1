@@ -1,4 +1,5 @@
 # Final Part 1
+## Collaborators were Basant Kandel & Christine Caron
 
 
 The code for the first part of the Final Project calculates Pi by
